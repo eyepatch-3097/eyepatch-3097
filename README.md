@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/siddharth-das-301199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-das-301199" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@siddharthdas-y5p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@siddharthdas-y5p" height="30" width="40" /></a>
-<a href="https://discord.gg/388699304417558528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="388699304417558528" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

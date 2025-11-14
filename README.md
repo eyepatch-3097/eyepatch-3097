@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyepatch-3097&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyepatch-3097&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">I’m a Product Manager / Product Marketing Manager with 4+ years of building, scaling, and shipping digital products across fashiontech, fintech, edtech, and martech. My work sits at the intersection of product strategy, technical execution, and customer experience design.</h3>
 

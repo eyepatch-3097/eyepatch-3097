@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">I’m a Product Manager / Product Marketing Manager with 4+ years of building, scaling, and shipping digital products across fashiontech, fintech, edtech, and martech. My work sits at the intersection of product strategy, technical execution, and customer experience design.</h3>
 

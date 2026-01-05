@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning & Model Evaluation (MLOps)**
 
-- 👯 I’m looking to collaborate on [Agentic CMO](https://github.com/eyepatch-3097/prd-dotswitchcmo)
+- 👯 I’m looking to collaborate on [Plug N Play AI Chatbot Mira](https://github.com/eyepatch-3097/mira)
 
 - 📫 How to reach me **siddharth3098@gmail.com**
 
